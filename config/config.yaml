@@ -1,0 +1,27 @@
+# Project Configuration Settings
+browser: "chrome"
+headless: true
+implicit_wait: 5
+explicit_wait: 10
+base_url: "https://www.redbus.in"
+
+# Default Test Data
+default_search:
+  source: "Bangalore"
+  destination: "Chennai"
+  days_ahead: 1
+  bus_type: "AC"
+
+# Passenger Details for Automation Testing
+passenger:
+  name: "Ranjith Kumar"
+  gender: "Male"
+  age: 24
+  email: "ranjith.test@example.com"
+  phone: "9876543210"
+
+# AI Assistant Settings
+ai_settings:
+  budget_limit: 1500
+  preferred_time: "evening"
+  min_rating: 4.0

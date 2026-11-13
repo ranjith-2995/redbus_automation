@@ -1,0 +1,28 @@
+from .config import (
+    BASE_DIR,
+    BROWSER,
+    HEADLESS,
+    IMPLICIT_WAIT,
+    EXPLICIT_WAIT,
+    BASE_URL,
+    DEFAULT_SEARCH,
+    PASSENGER_DATA,
+    AI_SETTINGS,
+    REPORTS_DIR,
+    SCREENSHOTS_DIR
+)
+
+__all__ = [
+    "BASE_DIR",
+    "BROWSER",
+    "HEADLESS",
+    "IMPLICIT_WAIT",
+    "EXPLICIT_WAIT",
+    "BASE_URL",
+    "DEFAULT_SEARCH",
+    "PASSENGER_DATA",
+    "AI_SETTINGS",
+    "REPORTS_DIR",
+    "SCREENSHOTS_DIR"
+]
+

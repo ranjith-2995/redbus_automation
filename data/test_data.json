@@ -1,0 +1,40 @@
+{
+  "valid_bookings": [
+    {
+      "test_case_id": "TC_REDBUS_01",
+      "description": "Book Bangalore to Chennai AC Sleeper with Evening Departure",
+      "source": "Bangalore",
+      "destination": "Chennai",
+      "days_ahead": 1,
+      "bus_type": "AC",
+      "passenger": {
+        "name": "Ranjith Kumar",
+        "gender": "Male",
+        "age": 24,
+        "email": "ranjith.test@example.com",
+        "phone": "9876543210"
+      }
+    },
+    {
+      "test_case_id": "TC_REDBUS_02",
+      "description": "Book Hyderabad to Bangalore Morning Seater",
+      "source": "Hyderabad",
+      "destination": "Bangalore",
+      "days_ahead": 2,
+      "bus_type": "Seater",
+      "passenger": {
+        "name": "Sneha Reddy",
+        "gender": "Female",
+        "age": 22,
+        "email": "sneha.reddy@example.com",
+        "phone": "9123456789"
+      }
+    }
+  ],
+  "ai_queries": [
+    "Book AC sleeper bus from Bangalore to Chennai tomorrow under 1000 rupees",
+    "Find cheap bus from Hyderabad to Bangalore for evening",
+    "Search top rated sleeper bus from Chennai to Bangalore under 1200"
+  ]
+}
+

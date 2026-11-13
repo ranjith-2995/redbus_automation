@@ -1,0 +1,7 @@
+route_id,source,destination,distance_km,avg_duration_hrs,expected_min_price
+RT101,Bangalore,Chennai,346,6.5,550
+RT102,Hyderabad,Bangalore,570,8.5,850
+RT103,Chennai,Coimbatore,510,7.5,700
+RT104,Mumbai,Pune,150,3.5,300
+RT105,Bangalore,Kochi,530,9.0,800
+

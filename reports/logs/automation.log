@@ -1,0 +1,552 @@
+2026-11-13 13:29:13 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: False)
+2026-11-13 13:29:14 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:29:20 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: False)
+2026-11-13 13:29:20 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:29:25 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: False)
+2026-11-13 13:29:25 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:29:58 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:29:59 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:30:04 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:30:04 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:30:09 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:30:09 - [WARNING] - RedBusAutomation - Default Chrome init failed (Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+), attempting ChromeDriverManager fallback...
+2026-11-13 13:31:18 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:31:19 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:31:19 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:32:13 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:32:13 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:33:59 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:33:59 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:34:00 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:34:01 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:34:03 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:34:03 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:34:09 - [WARNING] - RedBusAutomation - Fallback destination input method: Message: element not interactable
+  (Session info: chrome=157.0.8103.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff65fa7d655]
+	(No symbol) [0x7ff65f974790]
+	(No symbol) [0x7ff65fd7a76d]
+	(No symbol) [0x7ff6600276b1]
+	(No symbol) [0x7ff66001c9fa]
+	(No symbol) [0x7ff6600390da]
+	(No symbol) [0x7ff66001c439]
+	(No symbol) [0x7ff66001c3d0]
+	(No symbol) [0x7ff65f816bf1]
+	(No symbol) [0x7ff65f7fc109]
+	(No symbol) [0x7ff65f7fd433]
+	(No symbol) [0x7ff65ff17041]
+	(No symbol) [0x7ff65ff35c76]
+	(No symbol) [0x7ff65ff2c340]
+	(No symbol) [0x7ff65fbac9be]
+	(No symbol) [0x7ff65f982fa5]
+	(No symbol) [0x7ff65f97e2d4]
+	(No symbol) [0x7ff65f97e464]
+	(No symbol) [0x7ff65f96731c]
+	(No symbol) [0x7ff988aedda7]
+	(No symbol) [0x7ff989f5ee4c]
+
+2026-11-13 13:34:09 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:34:09 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:34:09 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_133409.png
+2026-11-13 13:34:12 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_133412.png
+2026-11-13 13:34:12 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:34:13 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:34:13 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:34:13 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:34:15 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_133415.png
+2026-11-13 13:34:15 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:34:15 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:34:17 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_133416.png
+2026-11-13 13:34:17 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:34:19 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_133419.png
+2026-11-13 13:34:19 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:34:21 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_133421.png
+2026-11-13 13:34:22 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:34:22 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:34:24 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_133424.png
+2026-11-13 13:34:24 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-46431005 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:34:28 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:34:28 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:34:29 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:34:29 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:34:31 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:34:31 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:34:37 - [WARNING] - RedBusAutomation - Fallback destination input method: Message: element not interactable
+  (Session info: chrome=157.0.8103.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff65fa7d655]
+	(No symbol) [0x7ff65f974790]
+	(No symbol) [0x7ff65fd7a76d]
+	(No symbol) [0x7ff6600276b1]
+	(No symbol) [0x7ff66001c9fa]
+	(No symbol) [0x7ff6600390da]
+	(No symbol) [0x7ff66001c439]
+	(No symbol) [0x7ff66001c3d0]
+	(No symbol) [0x7ff65f816bf1]
+	(No symbol) [0x7ff65f7fc109]
+	(No symbol) [0x7ff65f7fd433]
+	(No symbol) [0x7ff65ff17041]
+	(No symbol) [0x7ff65ff35c76]
+	(No symbol) [0x7ff65ff2c340]
+	(No symbol) [0x7ff65fbac9be]
+	(No symbol) [0x7ff65f982fa5]
+	(No symbol) [0x7ff65f97e2d4]
+	(No symbol) [0x7ff65f97e464]
+	(No symbol) [0x7ff65f96731c]
+	(No symbol) [0x7ff988aedda7]
+	(No symbol) [0x7ff989f5ee4c]
+
+2026-11-13 13:34:38 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:34:38 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:34:38 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_133438.png
+2026-11-13 13:34:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_133441.png
+2026-11-13 13:34:41 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:34:42 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:34:45 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:34:45 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:34:47 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:34:47 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:34:49 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:34:49 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:34:55 - [WARNING] - RedBusAutomation - Fallback destination input method: Message: element not interactable
+  (Session info: chrome=157.0.8103.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff65fa7d655]
+	(No symbol) [0x7ff65f974790]
+	(No symbol) [0x7ff65fd7a76d]
+	(No symbol) [0x7ff6600276b1]
+	(No symbol) [0x7ff66001c9fa]
+	(No symbol) [0x7ff6600390da]
+	(No symbol) [0x7ff66001c439]
+	(No symbol) [0x7ff66001c3d0]
+	(No symbol) [0x7ff65f816bf1]
+	(No symbol) [0x7ff65f7fc109]
+	(No symbol) [0x7ff65f7fd433]
+	(No symbol) [0x7ff65ff17041]
+	(No symbol) [0x7ff65ff35c76]
+	(No symbol) [0x7ff65ff2c340]
+	(No symbol) [0x7ff65fbac9be]
+	(No symbol) [0x7ff65f982fa5]
+	(No symbol) [0x7ff65f97e2d4]
+	(No symbol) [0x7ff65f97e464]
+	(No symbol) [0x7ff65f96731c]
+	(No symbol) [0x7ff988aedda7]
+	(No symbol) [0x7ff989f5ee4c]
+
+2026-11-13 13:34:55 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:34:55 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:34:56 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_133455.png
+2026-11-13 13:34:59 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_133458.png
+2026-11-13 13:34:59 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 13:35:00 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 13:35:02 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:39:28 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:39:28 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:39:29 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:39:29 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:39:31 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:39:31 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:39:32 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:39:32 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:39:32 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:39:33 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_133932.png
+2026-11-13 13:39:35 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_133935.png
+2026-11-13 13:39:35 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:39:36 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:39:37 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:39:37 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:39:37 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:39:39 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_133939.png
+2026-11-13 13:39:39 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:39:39 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:39:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_133941.png
+2026-11-13 13:39:41 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:39:43 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_133943.png
+2026-11-13 13:39:43 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:39:45 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_133945.png
+2026-11-13 13:39:45 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:39:45 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:39:48 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_133947.png
+2026-11-13 13:39:48 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-92215625 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:41:21 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:41:21 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:41:23 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:41:23 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:41:24 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:41:24 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:41:26 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:41:26 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:41:26 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:41:26 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_134126.png
+2026-11-13 13:41:29 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_134129.png
+2026-11-13 13:41:29 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:41:30 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:41:30 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:41:30 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:41:32 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_134132.png
+2026-11-13 13:41:32 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:41:32 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:41:34 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_134133.png
+2026-11-13 13:41:34 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:41:36 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_134136.png
+2026-11-13 13:41:36 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:41:38 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_134138.png
+2026-11-13 13:41:38 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:41:38 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:41:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_134141.png
+2026-11-13 13:41:41 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-68206255 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:41:44 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:41:44 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:41:45 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:41:46 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:41:47 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:41:47 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:41:49 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:41:49 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:41:49 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:41:49 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_134149.png
+2026-11-13 13:41:52 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_134151.png
+2026-11-13 13:41:52 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:41:53 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:41:56 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:41:57 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:41:58 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:41:58 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:42:00 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:42:00 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:42:02 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:42:02 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:42:02 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:42:03 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_134202.png
+2026-11-13 13:42:06 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_134205.png
+2026-11-13 13:42:06 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 13:42:07 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 13:42:09 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:49:36 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:49:36 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:49:38 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:49:38 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:49:40 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:49:40 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:49:41 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:49:41 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:49:41 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:49:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_134941.png
+2026-11-13 13:49:44 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_134944.png
+2026-11-13 13:49:44 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:49:45 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:49:45 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:49:45 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:49:47 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_134947.png
+2026-11-13 13:49:47 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:49:47 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:49:49 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_134949.png
+2026-11-13 13:49:49 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:49:51 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_134951.png
+2026-11-13 13:49:51 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:49:53 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_134953.png
+2026-11-13 13:49:53 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:49:53 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:49:56 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_134956.png
+2026-11-13 13:49:56 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-59502109 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:49:58 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:49:58 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:50:00 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:50:00 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:50:01 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:50:01 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:50:03 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:50:03 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:50:03 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:50:03 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135003.png
+2026-11-13 13:50:06 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135005.png
+2026-11-13 13:50:06 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:50:06 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:50:09 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:50:09 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:50:10 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:50:10 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:50:12 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:50:12 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:50:13 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:50:13 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:50:13 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:50:13 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135013.png
+2026-11-13 13:50:16 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135016.png
+2026-11-13 13:50:16 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 13:50:17 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 13:50:19 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:53:23 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:53:23 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:53:24 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:53:24 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:53:25 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:53:25 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:53:27 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:53:27 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:53:27 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:53:27 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135327.png
+2026-11-13 13:53:30 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135329.png
+2026-11-13 13:53:30 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:53:30 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:53:30 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:53:30 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:53:33 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_135333.png
+2026-11-13 13:53:33 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:53:33 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:53:34 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_135334.png
+2026-11-13 13:53:34 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:53:36 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_135336.png
+2026-11-13 13:53:36 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:53:39 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_135339.png
+2026-11-13 13:53:39 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:53:39 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:53:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_135341.png
+2026-11-13 13:53:42 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-86773408 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:53:44 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:53:44 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:53:45 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:53:46 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:53:47 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:53:47 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:53:48 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:53:48 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:53:48 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:53:49 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135348.png
+2026-11-13 13:53:51 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135351.png
+2026-11-13 13:53:51 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:53:52 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:53:54 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:53:54 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:53:56 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:53:56 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:53:57 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:53:57 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:53:59 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:53:59 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:53:59 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:53:59 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135359.png
+2026-11-13 13:54:02 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135401.png
+2026-11-13 13:54:02 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 13:54:03 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 13:54:04 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:57:09 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: False)
+2026-11-13 13:57:09 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:57:10 - [INFO] - RedBusAutomation - Navigating to URL: https://www.redbus.in
+2026-11-13 13:57:12 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:57:23 - [WARNING] - RedBusAutomation - Fallback source input method triggered: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff6beb4d655]
+	(No symbol) [0x7ff6bea44790]
+	(No symbol) [0x7ff6be8b2fb3]
+	(No symbol) [0x7ff6bf0f61e1]
+	(No symbol) [0x7ff6bf0f643c]
+	(No symbol) [0x7ff6bf124337]
+	(No symbol) [0x7ff6be8e6bf1]
+	(No symbol) [0x7ff6be8cc109]
+	(No symbol) [0x7ff6be8cd433]
+	(No symbol) [0x7ff6befe7041]
+	(No symbol) [0x7ff6bf005c76]
+	(No symbol) [0x7ff6beffc340]
+	(No symbol) [0x7ff6bec7c9be]
+	(No symbol) [0x7ff6bea52fa5]
+	(No symbol) [0x7ff6bea4e2d4]
+	(No symbol) [0x7ff6bea4e464]
+	(No symbol) [0x7ff6bea3731c]
+	(No symbol) [0x7ff988aedda7]
+	(No symbol) [0x7ff989f5ee4c]
+
+2026-11-13 13:57:57 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:57:57 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:57:58 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:57:58 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:58:00 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:58:00 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:58:01 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:58:01 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:58:01 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:58:02 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135801.png
+2026-11-13 13:58:04 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135804.png
+2026-11-13 13:58:04 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:58:04 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:58:04 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 13:58:04 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 13:58:07 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_135807.png
+2026-11-13 13:58:07 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 13:58:07 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 13:58:08 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_135808.png
+2026-11-13 13:58:08 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 13:58:10 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_135810.png
+2026-11-13 13:58:10 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 13:58:12 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_135812.png
+2026-11-13 13:58:12 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 13:58:12 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 13:58:14 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_135814.png
+2026-11-13 13:58:14 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-12350494 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 13:58:17 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:58:17 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:58:19 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:58:19 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:58:20 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:58:20 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:58:21 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:58:21 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:58:21 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:58:22 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135821.png
+2026-11-13 13:58:24 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135824.png
+2026-11-13 13:58:24 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:58:24 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 13:58:27 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 13:58:27 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:58:28 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:58:28 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:58:29 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:58:29 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:58:31 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:58:31 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:58:31 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:58:31 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135831.png
+2026-11-13 13:58:34 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135833.png
+2026-11-13 13:58:34 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 13:59:49 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: False)
+2026-11-13 13:59:49 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 13:59:50 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 13:59:52 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 13:59:53 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 13:59:53 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 13:59:55 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 13:59:55 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 13:59:55 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 13:59:55 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_135955.png
+2026-11-13 13:59:58 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_135958.png
+2026-11-13 13:59:58 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 13:59:59 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:00:00 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:00:00 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 14:00:00 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 14:00:02 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_140002.png
+2026-11-13 14:00:02 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 14:00:03 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 14:00:04 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_140004.png
+2026-11-13 14:00:04 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 14:00:06 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_140006.png
+2026-11-13 14:00:06 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 14:38:10 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:38:10 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:38:12 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:38:13 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:38:14 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:38:14 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:38:16 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:38:16 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:38:16 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:38:16 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_143816.png
+2026-11-13 14:38:19 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_143818.png
+2026-11-13 14:38:19 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 14:38:19 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:38:19 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 14:38:19 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 14:38:22 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_143822.png
+2026-11-13 14:38:22 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 14:38:22 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 14:38:23 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_143823.png
+2026-11-13 14:38:23 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 14:38:25 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_143825.png
+2026-11-13 14:38:25 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 14:38:28 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_143827.png
+2026-11-13 14:38:28 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 14:38:28 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 14:38:30 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_143830.png
+2026-11-13 14:38:31 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-70661638 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 14:38:33 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:38:33 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:38:35 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:38:35 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:38:37 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:38:37 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:38:39 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:38:39 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:38:39 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:38:39 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_143839.png
+2026-11-13 14:38:41 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_143841.png
+2026-11-13 14:38:41 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 14:38:42 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:38:45 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:38:45 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:38:46 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:38:47 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:38:48 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:38:48 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:38:50 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:38:50 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:38:50 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:38:50 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_143850.png
+2026-11-13 14:38:52 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_143852.png
+2026-11-13 14:38:52 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 14:38:53 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 14:38:55 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:39:50 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:39:50 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:39:51 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:39:53 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:39:54 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:39:54 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:39:56 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:39:56 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:39:56 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:39:56 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_143956.png
+2026-11-13 14:39:59 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_143958.png
+2026-11-13 14:39:59 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 14:39:59 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:39:59 - [INFO] - RedBusAutomation - Highest rated bus is SRS Travels (Rating: 4.6, Fare: ₹950)
+2026-11-13 14:39:59 - [INFO] - RedBusAutomation - Selecting bus #1 to view seats
+2026-11-13 14:40:02 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\view_seats_bus_1_20261113_144001.png
+2026-11-13 14:40:02 - [INFO] - RedBusAutomation - Selecting an available seat in bus #1
+2026-11-13 14:40:02 - [INFO] - RedBusAutomation - Clicking available seat: L2
+2026-11-13 14:40:03 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\seat_selected_L2_20261113_144003.png
+2026-11-13 14:40:03 - [INFO] - RedBusAutomation - Proceeding to passenger details page...
+2026-11-13 14:40:05 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\navigated_to_passenger_details_20261113_144005.png
+2026-11-13 14:40:05 - [INFO] - RedBusAutomation - Filling passenger details for Ranjith Kumar
+2026-11-13 14:40:07 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\passenger_details_filled_20261113_144007.png
+2026-11-13 14:40:07 - [INFO] - RedBusAutomation - Selected boarding point: Majestic - Kempegowda Bus Station
+2026-11-13 14:40:07 - [INFO] - RedBusAutomation - Clicking Confirm Booking button...
+2026-11-13 14:40:10 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\booking_confirmation_result_20261113_144009.png
+2026-11-13 14:40:10 - [INFO] - RedBusAutomation - Successfully confirmed booking! PNR: RB-54244237 | Passenger: Ranjith Kumar | Seat: L2 | Amount: ₹ 950
+2026-11-13 14:40:12 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:40:12 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:40:14 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:40:15 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:40:16 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:40:16 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:40:18 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:40:18 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:40:18 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:40:18 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_144018.png
+2026-11-13 14:40:20 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_144020.png
+2026-11-13 14:40:20 - [INFO] - RedBusAutomation - Detected 3 bus results on page
+2026-11-13 14:40:21 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
+2026-11-13 14:40:23 - [INFO] - RedBusAutomation - Initializing WebDriver: chrome (Headless: True)
+2026-11-13 14:40:23 - [INFO] - RedBusAutomation - Using project workspace ChromeDriver: C:\Users\ranjith\Documents\Ranjith document\project file\drivers\chromedriver.exe
+2026-11-13 14:40:25 - [INFO] - RedBusAutomation - Navigating to URL: file:///C:/Users/ranjith/Documents/Ranjith document/project file/data/redbus_mock.html
+2026-11-13 14:40:26 - [INFO] - RedBusAutomation - Entering source city: Bangalore
+2026-11-13 14:40:27 - [INFO] - RedBusAutomation - Selected source suggestion: Bangalore
+2026-11-13 14:40:27 - [INFO] - RedBusAutomation - Entering destination city: Chennai
+2026-11-13 14:40:29 - [INFO] - RedBusAutomation - Selected destination suggestion: Chennai
+2026-11-13 14:40:29 - [INFO] - RedBusAutomation - Selecting travel date: 2026-11-14 (1 day(s) from now)
+2026-11-13 14:40:29 - [INFO] - RedBusAutomation - Clicking Search Buses button
+2026-11-13 14:40:29 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\before_search_click_20261113_144029.png
+2026-11-13 14:40:32 - [INFO] - RedBusAutomation - Screenshot saved: C:\Users\ranjith\Documents\Ranjith document\project file\reports\screenshots\after_search_click_20261113_144031.png
+2026-11-13 14:40:32 - [INFO] - RedBusAutomation - Applying 'AC Buses' filter
+2026-11-13 14:40:33 - [INFO] - RedBusAutomation - Applying 'Sleeper' filter
+2026-11-13 14:40:35 - [INFO] - RedBusAutomation - Extracted information for 3 active buses
